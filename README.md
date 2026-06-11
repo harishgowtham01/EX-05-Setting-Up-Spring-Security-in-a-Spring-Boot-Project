@@ -1,8 +1,8 @@
 # Ex No: 05 – Setting Up Spring Security in a Spring Boot Project
 
-### Name: Harish Gowtham E
+### Name: HARISH GOWTHAM E
 ### Register Number: 2305002009
-
+### Reg No: 2305002001
 
 ## AIM
 
