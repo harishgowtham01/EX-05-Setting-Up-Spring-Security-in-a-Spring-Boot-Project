@@ -2,7 +2,6 @@
 
 ### Name: HARISH GOWTHAM E
 ### Register Number: 2305002009
-### Reg No: 2305002001
 
 ## AIM
 
